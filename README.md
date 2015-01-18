@@ -5,7 +5,7 @@
 O **leprechaun** agora é um aplicativo opensource. Isso significa que você poderá baixar a fonte dele e editá-lo livremente! Mas vê se não se esquece de creditar quem criou! :)
 
 ## Conteúdo livre
-Como alguns já sabem, o **leprechaun** não foi sempre um duende. Antes do inicio do desenvolvimento, um Player alternativo de streaming foi criado, chamado **Dood's music streamer**. Bom, ele não durou muito tempo, já que começou a se tornar obsoleto com o tempo. ###PORÉM### ele está de volta (pelo menos em teoria) e foi usado como modelo para desenvolvimento do nosso aplicativo. Então, tira o cavalinho da chuva se você tiver tentando bancar o moralista. ;)
+Como alguns já sabem, o **leprechaun** não foi sempre um duende. Antes do inicio do desenvolvimento, um Player alternativo de streaming foi criado, chamado **Dood's music streamer**. Bom, ele não durou muito tempo, já que começou a se tornar obsoleto com o tempo. **PORÉM** ele está de volta (pelo menos em teoria) e foi usado como modelo para desenvolvimento do nosso aplicativo. Então, tira o cavalinho da chuva se você tiver tentando bancar o moralista. ;)
 
 ## FAQ
 
