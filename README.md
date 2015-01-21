@@ -1,6 +1,11 @@
 # Leprechaun - Developer Guide
 ![Logo Lep](https://avatars0.githubusercontent.com/u/10565712?v=3&s=460)
 
+# Desenvolvedores
+Programação e Script: **Luiz Nickel** <Twitter.com/nickel_himself>
+Programação e Design: **Pedro Franco** 
+
+
 # Sobre
 O **leprechaun** agora é um aplicativo opensource. Isso significa que você poderá baixar a fonte dele e editá-lo livremente! Mas vê se não se esquece de creditar quem criou! :)
 
