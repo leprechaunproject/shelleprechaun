@@ -2,8 +2,7 @@
 :: openCripto - Segurando seus arquivos!
 :: Projeto hospedado no GitHub! 
 :: Maintainers: Luiz Nickel e Pedro Franco
-title openCripto v0.2
-start changelog.txt
+title openCripto v0.2.1
 color C
 if EXIST "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" goto UNLOCK
 if NOT EXIST Arquivos goto Cripto
