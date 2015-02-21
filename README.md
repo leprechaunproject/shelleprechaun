@@ -1,9 +1,10 @@
 # Leprechaun - Equipe de Criação
-![Logo Lep](https://avatars0.githubusercontent.com/u/10565712?v=3&s=460)
+![Logo Lep]()
 
 # Desenvolvedores
 Programação e Script: **Luiz Nickel** <Twitter.com/nickel_himself>
 Programação e Design: **Pedro Franco** <Facebook.com/pedro.franco.980>
+Compilado de todos os arquivos: **Github.io** <http://leprechaunproject.github.io/shelleprechaun>
 
 
 # Sobre
