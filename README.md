@@ -1,9 +1,9 @@
 # Leprechaun - Equipe de Criação
 
 # Desenvolvedores
-Programação e Script: **Luiz Nickel** <Twitter.com/nickel_himself>
-Programação e Design: **Pedro Franco** <Facebook.com/pedro.franco.980>
-Compilado de todos os arquivos: **Github.io** <http://leprechaunproject.github.io/shelleprechaun>
+Programação e Script: **Luiz Nickel** <Twitter.com/nickel_himself> <br/>
+Programação e Design: **Pedro Franco** <Facebook.com/pedro.franco.980> <br/>
+Compilado de todos os arquivos: <http://leprechaunproject.github.io/shelleprechaun>
 
 
 # Sobre
