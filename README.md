@@ -1,5 +1,4 @@
 # Leprechaun - Equipe de Criação
-![Logo Lep]()
 
 # Desenvolvedores
 Programação e Script: **Luiz Nickel** <Twitter.com/nickel_himself>
